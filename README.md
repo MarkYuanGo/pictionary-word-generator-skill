@@ -11,13 +11,13 @@ Word packs follow the **long-tail principle** — instead of generic words like 
 ## Install
 
 ```bash
-npx skills add pictionaryhub/pictionary-word-pack-generator
+npx skills add MarkYuanGo/pictionary-word-pack-generator
 ```
 
 Or install from a local clone:
 
 ```bash
-npx skills add ./product-docs/skill
+npx skills add ./
 ```
 
 ## Usage
@@ -35,21 +35,21 @@ The skill will:
 
 ## Inputs
 
-| Field | Required | Options |
-|-------|----------|---------|
-| Keyword | Yes | Any theme (e.g., `Space`, `Food`, `Sports`) |
-| Difficulty | Yes | `Easy` / `Medium` / `Hard` / `Hell` |
-| Scene | Yes | e.g., `Family Party`, `Kids' Learning`, `Trivia Night` |
-| Language | Yes | Any language (e.g., `English`, `Chinese`, `Spanish`) |
+| Field      | Required | Options                                                |
+| ---------- | -------- | ------------------------------------------------------ |
+| Keyword    | Yes      | Any theme (e.g., `Space`, `Food`, `Sports`)            |
+| Difficulty | Yes      | `Easy` / `Medium` / `Hard` / `Hell`                    |
+| Scene      | Yes      | e.g., `Family Party`, `Kids' Learning`, `Trivia Night` |
+| Language   | Yes      | Any language (e.g., `English`, `Chinese`, `Spanish`)   |
 
 ## Difficulty Levels
 
-| Level | Description |
-|-------|-------------|
-| **Easy** | Common, universally recognizable concepts |
-| **Medium** | Requires some domain knowledge |
-| **Hard** | Niche references, rare items, cultural icons |
-| **Hell** | Obscure, compound concepts — experts only |
+| Level      | Description                                  |
+| ---------- | -------------------------------------------- |
+| **Easy**   | Common, universally recognizable concepts    |
+| **Medium** | Requires some domain knowledge               |
+| **Hard**   | Niche references, rare items, cultural icons |
+| **Hell**   | Obscure, compound concepts — experts only    |
 
 ## Example Output (snippet)
 
