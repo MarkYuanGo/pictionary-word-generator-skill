@@ -1,10 +1,10 @@
 # pictionary-word-generator-skill
 
-> An AI agent skill for generating themed, difficulty-graded Pictionary word packs — powered by [PictionaryHub](https://pictionaryhub.com).
+> An AI agent skill for generating themed, difficulty-graded Pictionary word packs — powered by [PictionaryHub](https://pictionaryhub.com?utm=github).
 
 ## Overview
 
-This skill turns any AI coding agent into a **Pictionary word pack factory**. Given a topic, difficulty level, scene, and language, the agent will guide you through producing a polished 100–150 word pack ready to upload to [PictionaryHub](https://pictionaryhub.com).
+This skill turns any AI coding agent into a **Pictionary word pack factory**. Given a topic, difficulty level, scene, and language, the agent will guide you through producing a polished 100–150 word pack ready to upload to [PictionaryHub](https://pictionaryhub.com?utm=github).
 
 Word packs follow the **long-tail principle** — instead of generic words like "cat", the skill generates specific, drawable, scene-appropriate phrases like _"Garfield napping on a Monday"_ or _"Maneki-neko with a gold coin"_.
 
